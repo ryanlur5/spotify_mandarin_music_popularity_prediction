@@ -2,4 +2,4 @@
 
 Predict Mandarin music popularities from song attributes (https://developer.spotify.com/documentation/web-api/reference/#/operations/get-several-audio-features)
 
-For detail explaination please refer to (medium link)
+For detail explaination please refer to (Part1 - https://medium.com/@ryanlu_26695/predicting-mandarin-song-popularity-on-spotify-part-1-80014ba98e58 Part2 - )
